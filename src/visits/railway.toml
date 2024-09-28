@@ -1,5 +1,5 @@
 [build]
-builder = "DOCKERFILE" #nixss
+builder = "DOCKERFILE"
 dockerfilePath = "./Dockerfile"
 watchPatterns = [
     "requirements.txt", 
